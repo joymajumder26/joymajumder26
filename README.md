@@ -14,8 +14,8 @@ Python, C/C++, JavaScript
 About me:
 
 - 🔭 I’m currently working on My Web Dev Skill
-- 🌱 I’m currently learning Django and Django REST
-- 👯 I’m looking to collaborate on Python and Django
+- 🌱 I’m currently learning Node.js/Express.js
+- 👯 I’m looking to collaborate on React,Redux and Express.js
 - 💬 Ask me about anything
 
 
